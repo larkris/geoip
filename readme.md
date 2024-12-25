@@ -1,6 +1,6 @@
 # 简介
 
-精简版 GeoIP，来自 [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每周六自动生成 MaxMind mmdb 格式文件`Country.mmdb`、`Country-asn.mmdb`。
+精简版 GeoIP，来自 [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每周六自动生成 MaxMind mmdb 格式文件`Country.mmdb`。
 
 [![Build Country.mmdb](https://github.com/larkris/geoip/actions/workflows/main.yml/badge.svg)](https://github.com/larkris/geoip/actions/workflows/main.yml)
 
@@ -10,8 +10,6 @@
 
 - [Country.mmdb
 ](https://github.com/larkris/geoip/raw/release/Country.mmdb)
-- [Country-asn.mmdb
-](https://github.com/larkris/geoip/raw/release/Country-asn.mmdb)
 
 ## License
 
