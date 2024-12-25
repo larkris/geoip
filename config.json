@@ -58,7 +58,7 @@
       "type": "text",
       "action": "add",
       "args": {
-        "name": "telegram",
+        "name": "global",
         "uri": "https://gitlab.com/Larkris/larkris/-/raw/main/iplsit/telegram.txt",
         "onlyIPType": "ipv4"
       }
@@ -78,15 +78,7 @@
       "action": "output",
       "args": {
         "outputName": "Country.mmdb",
-        "overwriteList": ["cn", "apple", "global", "google", "telegram"]
-      }
-    },
-    {
-      "type": "maxmindMMDB",
-      "action": "output",
-      "args": {
-        "outputName": "Country-asn.mmdb",
-        "wantedList": ["global", "google", "telegram"]
+        "overwriteList": ["cn", "apple", "global", "google"]
       }
     },
     {
