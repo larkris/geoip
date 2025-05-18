@@ -103,6 +103,8 @@ jobs:
 
       - name: Remove some files to avoid publishing to GitHub release
         run: |
+          rm -rf ./output/*.{gz,zip}
+          rm -rf ./output/GeoLite2-*.csv
           rm -rf ./output/GeoLite2-*.mmdb
           rm -rf ./output/GeoLite2-*.sha256sum
           rm -rf ./output/text
