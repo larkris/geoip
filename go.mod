@@ -7,7 +7,7 @@ require (
 	github.com/maxmind/mmdbwriter v1.1.0
 	github.com/oschwald/geoip2-golang v1.13.0
 	github.com/oschwald/maxminddb-golang v1.13.1
-	github.com/sagernet/sing-box v1.12.13
+	github.com/sagernet/sing-box v1.12.14
 	github.com/spf13/cobra v1.10.2
 	github.com/tailscale/hujson v0.0.0-20250226034555-ec1d1c113d33
 	github.com/tidwall/gjson v1.18.0
@@ -20,7 +20,7 @@ require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/miekg/dns v1.1.67 // indirect
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.10 // indirect
-	github.com/sagernet/sing v0.7.13 // indirect
+	github.com/sagernet/sing v0.7.14 // indirect
 	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
