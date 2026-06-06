@@ -1,12 +1,12 @@
 module github.com/Loyalsoldier/geoip
 
-go 1.24.7
+go 1.25.0
 
 require (
 	github.com/klauspost/compress v1.18.5
 	github.com/maxmind/mmdbwriter v1.2.0
-	github.com/oschwald/geoip2-golang/v2 v2.1.0
-	github.com/oschwald/maxminddb-golang/v2 v2.1.1
+	github.com/oschwald/geoip2-golang/v2 v2.2.0
+	github.com/oschwald/maxminddb-golang/v2 v2.3.0
 	github.com/sagernet/sing-box v1.13.7
 	github.com/spf13/cobra v1.10.2
 	github.com/tailscale/hujson v0.0.0-20250605163823-992244df8c5a
@@ -26,6 +26,6 @@ require (
 	golang.org/x/mod v0.33.0 // indirect
 	golang.org/x/net v0.50.0 // indirect
 	golang.org/x/sync v0.19.0 // indirect
-	golang.org/x/sys v0.41.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
 	golang.org/x/tools v0.42.0 // indirect
 )
