@@ -6,7 +6,7 @@ require (
 	github.com/klauspost/compress v1.19.0
 	github.com/maxmind/mmdbwriter v1.2.0
 	github.com/oschwald/geoip2-golang/v2 v2.2.0
-	github.com/oschwald/maxminddb-golang/v2 v2.4.0
+	github.com/oschwald/maxminddb-golang/v2 v2.4.1
 	github.com/sagernet/sing-box v1.13.14
 	github.com/spf13/cobra v1.10.2
 	github.com/tailscale/hujson v0.0.0-20250605163823-992244df8c5a
@@ -26,6 +26,6 @@ require (
 	golang.org/x/mod v0.33.0 // indirect
 	golang.org/x/net v0.50.0 // indirect
 	golang.org/x/sync v0.19.0 // indirect
-	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/sys v0.46.0 // indirect
 	golang.org/x/tools v0.42.0 // indirect
 )
